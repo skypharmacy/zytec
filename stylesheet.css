@@ -67,6 +67,9 @@ header{
   border-top:1px solid #eee;
 }
 
+.message-wrapper img{
+  width:300px;
+}
 
 footer img{
   width:124px;
